@@ -25,7 +25,7 @@ Find the year when maximum number of people we alive.
  - At this point peopleAlive and increment j counter.
  - In the end return year.
 ```
- Year           Counter
+ Year                Counter
  1750   --born-->       1
  1803   --born-->       2
  1803   --born-->       3
